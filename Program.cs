@@ -159,9 +159,9 @@ class Program
                 case "1":
                     foreach (char letra in "abcdefghijk")
                     {
-                        arbol.Insertar(letra); // Inserta las letras de 'a' a 'k'
+                        arbol.Insertar(letra); // Inserta las letras 
                     }
-                    Console.WriteLine("Valores de 'a' a 'k' insertados correctamente.");
+                    Console.WriteLine("Valores de a hasta la k insertados correctamente.");
                     break;
 
                 case "2":
